@@ -1,3 +1,3 @@
-C:/Users/Den/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/untitled4.dir
-C:/Users/Den/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Den/CLionProjects/untitled4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Den/CLionProjects/mycspy/cmake-build-debug/CMakeFiles/my_cpspy.dir
+C:/Users/Den/CLionProjects/mycspy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Den/CLionProjects/mycspy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
